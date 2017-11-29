@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMenus", "AppMenus.csproj", "{A7B38093-1C07-36DE-460F-59B7710FE2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMenus.Plugins", "AppMenus.Plugins.csproj", "{57DD6266-BD26-32B1-EBD2-CA4F59CDF648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMenus.Editor.Plugins", "AppMenus.Editor.Plugins.csproj", "{8857AD5C-D40B-E931-3AE2-E40DE55B1268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B38093-1C07-36DE-460F-59B7710FE2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B38093-1C07-36DE-460F-59B7710FE2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B38093-1C07-36DE-460F-59B7710FE2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B38093-1C07-36DE-460F-59B7710FE2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DD6266-BD26-32B1-EBD2-CA4F59CDF648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DD6266-BD26-32B1-EBD2-CA4F59CDF648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DD6266-BD26-32B1-EBD2-CA4F59CDF648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DD6266-BD26-32B1-EBD2-CA4F59CDF648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8857AD5C-D40B-E931-3AE2-E40DE55B1268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8857AD5C-D40B-E931-3AE2-E40DE55B1268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8857AD5C-D40B-E931-3AE2-E40DE55B1268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8857AD5C-D40B-E931-3AE2-E40DE55B1268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
